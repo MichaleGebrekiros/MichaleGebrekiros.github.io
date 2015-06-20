@@ -1,2 +1,3 @@
 name: MichaleGebrekiros
 	markdown: kramdow
+permalink: /blog/:year/:month/:day/:title
